@@ -11,13 +11,15 @@ The only real disadvantage is that it can only measure the first cell's voltage,
 # Hardware
 To build this you only need very few components:
 
-* Arduino Mini Pro 5V/16MHz Bersion
+* Arduino Mini Pro 5V/16MHz Version
 * 1x 4.7k Ohm Resistor
 * 1x Female-Female Jumper Cable
 * 3x Female-Male Jumper Cable
 
 Make sure you get the 5V/16MHz Arduino since the Arduino can only measure voltage up to it's voltage without further work.
 The resistor is optional but strongly recommended. It will probably work without but it might damage your receiver.
+
+Also make sure you get the Arduino for the right price. These things range from €1.5 to €20 (or similar amounts in Dollars). If you can't find any cheap ones, look on Ebay and select Worldwide delivery.
 
 Wire the whole thing up like so:
 
