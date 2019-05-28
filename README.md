@@ -34,3 +34,7 @@ So it is pretty easy:
 ## Software
 You can either use the ready-build hex files avalable in the [hex](https://github.com/Dakkaron/MinimalSPORTVoltmeter/tree/master/hex) folder or you can build it yourself.
 To build it you first need to download pawelsky's amazing FrSky S-Port telemetry library from [here](https://www.rcgroups.com/forums/showthread.php?2245978-FrSky-S-Port-telemetry-library-easy-to-use-and-configurable) and put it into your Arduino-library folder. Then open up SPortVoltmeter.ino in Arduino and compile it.
+
+
+## Special thanks
+The biggest part of the work on this was done by pawelsky who made the FrSky S-Port telemetry library. It pretty much took all the hard work from me and left me only to connect the pieces. This library is some pretty amazing work!
